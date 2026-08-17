@@ -31,7 +31,7 @@ Generate, preview, and issue UK HR documents from 8 templates. Locked clauses pr
 - **ACAS Code**: disciplinary/grievance procedure, right to be accompanied, right of appeal
 - **ERA 1996 s.203**: settlement agreement waives statutory claims only if independent adviser involved
 - **Spring v Guardian Assurance**: references — duty of care to both subject and recipient
-- **Income Tax (Earnings and Pensions) Act 2003 s.401**: TBAk tax-free on termination payments
+- **Income Tax (Earnings and Pensions) Act 2003 s.401**: £30k tax-free on termination payments
 
 ---
 
