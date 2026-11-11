@@ -37,4 +37,4 @@ Generate, preview, and issue UK HR documents from 8 templates. Locked clauses pr
 
 ## Licence
 
-MIT · Simon Gant · prime 1019 · ◊·κ=1.
+MIT · Simon Gant.
